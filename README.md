@@ -21,6 +21,9 @@ I am a beginner Flutter developer. I started learning programming in college wit
     <a href="https://www.linkedin.com/in/max-ihnatyev-b15588287/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a> 
+   <a href="https://t.me/Hismak" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="40" height="40" alt="linkedin" />
+    </a> 
   </div>
 
 ---
